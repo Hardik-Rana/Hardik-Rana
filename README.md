@@ -1,18 +1,16 @@
-# Hey there. I am [Hardik Rana](https://github.com/Hardik-Rana) 👋
+# Hello 👋 [Hardik Rana] here.(https://github.com/Hardik-Rana) 
 
 
-I am a MERN Stack developer, obsessed with the idea of constantly improving myself. I am currently working on garnishing my React Skills. 
+Currently I am pursuing Computer Engineering Degree at GEC Gandhinagar. I am fresher and have work experience in programming languages. 
 <br>
  #
 <img align="right" height="200px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭 I’m currently working on MERN Stack <br/>
+- 📚 I’m currently working on MERN Stack <br/>
 
-- 📈 Highly passionate about creating Dynamic Web Applications 🕸 <br/>
+- 📈 Intrested in Java language too. 🕸 <br/>
 
-- 🤓 I’m looking to collaborate with React <img height="15px" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" /> projects. <br/>
-
-- 💬 Ask me about anything, I am happy to help 😄 <br/>
+- 📈 I have also worked in android studio.. 🕸 <br/>
 
 - 🌐 Checkout my Website [🌐] (http://www.hardikrana.ml)
 #
@@ -28,5 +26,5 @@ I am a MERN Stack developer, obsessed with the idea of constantly improving myse
 
 
 <p align="center">
-<h6 align="center">Show some ❤️ by starring some of the <a href="https://github.com/Hardik-Rana?tab=repositories"> repositories!</a></h6>
+<h6 align="center">You can see my work <a href="https://github.com/Hardik-Rana?tab=repositories"> HERE!</a></h6>
 </p>
