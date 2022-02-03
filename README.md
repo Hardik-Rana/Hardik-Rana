@@ -1,4 +1,3 @@
-<script src="https://kit.fontawesome.com/899b86dfda.js" crossorigin="anonymous"></script>
 # Hello 👋 [Hardik Rana](https://github.com/Hardik-Rana) here. 
 
 
@@ -11,7 +10,7 @@ Currently I am pursuing Computer Engineering Degree at GEC Gandhinagar. I am fre
 
 - ☕ Intrested in Java language too. 🕸 <br/>
 
-- <i class="fab fa-android"></i> I have also worked in android studio.. 🕸 <br/>
+- <img align="right" height="200px" alt="android" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" /> I have also worked in android studio.. 🕸 <br/>
 
 - 🌐 Checkout my Website [🌐] (http://www.hardikrana.ml)
 #
