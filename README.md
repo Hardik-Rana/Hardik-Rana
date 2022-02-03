@@ -8,13 +8,13 @@ Currently I am pursuing Computer Engineering Degree at GEC Gandhinagar. I am fre
 
 - 📚 I’m currently working on MERN Stack <br/>
 
-- ☕ Intrested in Java language too. 🕸 <br/>
+- ☕ Intrested in Java language too. <br/>
 
-- <img margin-top="3px" alt="android" width="18px" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" /> I have also worked in android studio.. 🕸 <br/>
+- <img margin-top="3px" alt="android" width="18px" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" /> I have also worked in android studio.<br/>
 
-- 🌐 Checkout my Website [🌐] (http://www.hardikrana.ml)
+- 🌐 Checkout my Website here: <a href="www.hardikrana.ml"> www.hardikrana.ml</a>
 #
-## Connect with me 🤝 :
+## Connect with me 🤙 :
 
 
 [<img align="left" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />](https://www.linkedin.com/in/mr-hardik-rana-832345214)
