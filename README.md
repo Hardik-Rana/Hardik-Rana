@@ -1,4 +1,4 @@
-# Hello 👋 [Hardik Rana] here.(https://github.com/Hardik-Rana) 
+# Hello 👋 [Hardik Rana](https://github.com/Hardik-Rana) here. 
 
 
 Currently I am pursuing Computer Engineering Degree at GEC Gandhinagar. I am fresher and have work experience in programming languages. 
