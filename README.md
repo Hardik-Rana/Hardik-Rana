@@ -10,7 +10,7 @@ Currently I am pursuing Computer Engineering Degree at GEC Gandhinagar. I am fre
 
 - ☕ Intrested in Java language too. 🕸 <br/>
 
-- <img align="right" height="200px" alt="android" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" /> I have also worked in android studio.. 🕸 <br/>
+- <img align="right" height="5px" alt="android" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" /> I have also worked in android studio.. 🕸 <br/>
 
 - 🌐 Checkout my Website [🌐] (http://www.hardikrana.ml)
 #
