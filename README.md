@@ -47,9 +47,13 @@
 
 ### Connect with me : 
 
-[![SITE](https://img.shields.io/badge/www.hardikrana.ml-000000?style=for-the-badge&logo=Google%20Earth&logoColor=white)](http://www.hardikrana.ml/)
+[![SITE](https://img.shields.io/badge/www.hardikrana.ml-000000?style=for-the-badge&logo=Hexo&logoColor=white)](http://www.hardikrana.ml/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-hardik-rana-832345214)
+
+[![Instagram](https://img.shields.io/badge/ranahardik360-000000?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ranahardik360/)
+
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ranahardik360)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
