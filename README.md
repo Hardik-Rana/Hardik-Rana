@@ -40,7 +40,7 @@
 
 ### Studying in this moment: 
 
-![MERN](https://img.shields.io/badge/-MERN STACK-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+![MERN](https://img.shields.io/badge/-MERN-0D1117?style=for-the-badge&logo=vue-dot-js&labelColor=0D1117)&nbsp;
 
 ### Areas of Interest:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
