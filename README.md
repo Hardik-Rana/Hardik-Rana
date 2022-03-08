@@ -1,32 +1,52 @@
-# Hello 👋 [Hardik Rana](https://github.com/Hardik-Rana) here. 
+<!-- Waves -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Hardik Rana&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+<!-- Typing Tag -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello 👋 Hardik Rana here.;I’m currently working on MERN Stack;Love to Web Development;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Hardik-Rana&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Github Stats" /> 
+ 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik-Rana&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+### Main skills:
+
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=vue-dot-js&labelColor=0D1117)&nbsp;
+
+### Other Programming Languages:
+
+![C](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=vue-dot-js&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=vue-dot-js&labelColor=0D1117)&nbsp;
+
+### Tools:
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 
-Currently I am pursuing Computer Engineering Degree at GEC Gandhinagar. I am fresher and have work experience in programming languages. 
-<br>
- #
-<img align="right" height="200px" alt="GIF" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+### Other Knowledge:
 
-- 📚 I’m currently working on MERN Stack <br/>
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![Android](https://img.shields.io/badge/-android-0D1117?style=for-the-badge&logo=vue-dot-js&labelColor=0D1117)&nbsp;
 
-- 👨‍💻 Love to Web Development <br/>
+### Studying in this moment: 
 
-- ☕ Intrested in Java language too. <br/>
+![MERN](https://img.shields.io/badge/-MERN STACK-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
 
-- <img margin-top="3px" alt="android" width="18px" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" /> I have also worked in android studio.<br/>
-
-- 🌐 Checkout my Website here: <a href="www.hardikrana.ml"> www.hardikrana.ml</a>
-#
-## Connect with me 🤙 :
+### Areas of Interest:
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 
-[<img align="left" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />](https://www.linkedin.com/in/mr-hardik-rana-832345214)
-[<img align="left" alt="Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />](https://www.instagram.com/ranahardik360/)
-[<img alt="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="30px">](mailto:ranahardik2207@gmail.com)
-<br>
-<p> <img src="https://github-readme-stats.vercel.app/api?username=Hardik-Rana&show_icons=true" alt="hardik-rana" width="50%"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik-Rana&layout=compact" alt="Hardik-Rana" align="right" width="40%"/> </p>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/%7BHardik-Rana%7D/count.svg" /></p> 
+<br></div>
 
-
-<p align="center">
-<h6 align="center">You can see my work <a href="https://github.com/Hardik-Rana?tab=repositories"> HERE!</a></h6>
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
