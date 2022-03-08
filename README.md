@@ -35,8 +35,8 @@
 
 ### Other Knowledge:
 
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![Android](https://img.shields.io/badge/-android-0D1117?style=for-the-badge&logo=vue-dot-js&labelColor=0D1117)&nbsp;
+![Android](https://img.shields.io/badge/-Android-0D1117?style=for-the-badge&logo=vue-dot-js&labelColor=0D1117)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=vue-dot-js&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment: 
 
