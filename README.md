@@ -26,8 +26,8 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=GitHub&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/WINDOWS-000000?style=for-the-badge&logo=Windows&logoColor=white)&nbsp;
+![microsoft-office](https://img.shields.io/badge/Microsoft%20Office-000000?style=for-the-badge&logo=Microsoft%20Office&logoColor=white)&nbsp;
 
 
 ### Other Knowledge:
@@ -37,15 +37,12 @@
 
 ### Studying in this moment: 
 
-![MERN](https://img.shields.io/badge/-MERN-0D1117?style=for-the-badge&logo=vue-dot-js&labelColor=0D1117)&nbsp;
-
-### Areas of Interest:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![MERN](https://img.shields.io/badge/MERN%20STACK-000000?style=for-the-badge&logo=MongoDB&logoColor=white)&nbsp;
 
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/%7BHardik-Rana%7D/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/%7BHardik%7D/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
