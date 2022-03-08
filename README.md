@@ -40,16 +40,16 @@
 ![MERN](https://img.shields.io/badge/MERN%20STACK-000000?style=for-the-badge&logo=MongoDB&logoColor=white)&nbsp;
 
 
-<div align="center">
+<!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/%7BHardik%7D/count.svg" /></p> 
-<br></div>
+<br></div> -->
 
-### Visit Me: 
+### Connect with me : 
 
 [![SITE](https://img.shields.io/badge/www.hardikrana.ml-000000?style=for-the-badge&logo=Google%20Earth&logoColor=white)](http://www.hardikrana.ml/)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d-vyesh-vyas-823442190/)
+[![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-hardik-rana-832345214)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
