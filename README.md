@@ -19,22 +19,21 @@
 
 ### Other Programming Languages:
 
-![C](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=vue-dot-js&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=vue-dot-js&labelColor=0D1117)&nbsp;
+![C](https://img.shields.io/badge/C%20LANGUAGE-000000?style=for-the-badge&logo=C&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 
 ### Tools:
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=GitHub&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 
 ### Other Knowledge:
 
-![Android](https://img.shields.io/badge/-Android-0D1117?style=for-the-badge&logo=vue-dot-js&labelColor=0D1117)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=vue-dot-js&labelColor=0D1117)&nbsp;
+![Android](https://img.shields.io/badge/ANDROID-000000?style=for-the-badge&logo=Android&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-000000?style=for-the-badge&logo=Bootstrap&logoColor=white)&nbsp;
 
 ### Studying in this moment: 
 
